@@ -85,7 +85,7 @@ function SimpleForm() {
       </form>
       {process.env.REACT_APP_MESSAGE}
       <br />
-      {process.env.REACT_APP_SOME_MESSAGE}
+      {process.env.SOME_MESSAGE}
     </div>
   )
 }
